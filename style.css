@@ -143,3 +143,11 @@ Media Queries
   }
 
 }
+
+@media screen and (max-width: 350px) {
+  .sign-up-btn {
+
+    width: 100%;
+
+  }
+}
